@@ -1,0 +1,1 @@
+Thjis is only the code part to create GUI on pynq board. The complete PYNQ project including data and bitstream files are uploaded on the google drive : https://drive.google.com/drive/folders/1-oE9tXqf6OC7w_2zNgH2XC9hby-8QH7G?usp=sharing
